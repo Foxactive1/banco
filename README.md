@@ -1,4 +1,4 @@
-Sistema Bancário em Python
+QQSistema Bancário em Python
 
 Este é um projeto de um Sistema Bancário Simples desenvolvido em Python, que implementa funcionalidades básicas de gerenciamento de contas bancárias e usuários.
 
@@ -156,5 +156,5 @@ Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para
 
 ---
 
-Desenvolvido com 💻 por Seu Nome.
+Desenvolvido com 💻 por Dione Castro Alves. vulgo InNovaIdeia Assessoria em Tecnologia ®
 
